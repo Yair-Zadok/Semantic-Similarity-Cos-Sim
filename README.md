@@ -1,5 +1,5 @@
 # Semantic-Similarity-Cos-Sim
-Calculates the semantic similarity of 2 phrases using their cosines similarity from the prebuilt word2vec model
+Calculates the semantic similarity of 2 phrases using their cosine similarities from the prebuilt word2vec model
 
 Gives a range between 0 and 1 indicating the phrase similarity (higher is more similar)
 
